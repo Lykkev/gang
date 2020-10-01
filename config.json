@@ -1,0 +1,66 @@
+{
+  "bot": {
+    "logchannel": "756952805134172170",
+    "homepage": "https://youtube.com",
+    "owners": ["662157806975188992"],
+    "prefixes": ["$"],
+    "status": "online",
+    "statuses": ["help", "guilds", "users", "version"],
+    "statustype": 3,
+    "token": "NzYwNzA2MTg4OTE1NzY5MzU0.X3P82A.kWSRRqZR0LkW7Yingy3r33ucOH4"
+  },
+
+  "colors": {
+    "general": "#231030",
+    "error": "#FF0048",
+    "pinboard": "#3498DB",
+    "success": "#41FF70"
+  },
+
+  "dashboard": {
+    "cookiesecret": "",
+    "secret": "",
+    "port": 7012,
+    "redirect_uri": "http://localhost:port/auth/callback"
+  },
+
+  "options": {
+    "defaultImageFormat": "png",
+    "defaultImageSize": 512,
+    "maxShards": 1
+  },
+
+  "keys": {
+    "abuseipdb": "f39b66be0f818fd1cc91399f98a77e1c9eaf6f4bef33fdc4eee8b66aa5ba3c54aaafa343f8da3493",
+    "dictionary": "",
+    "dbots": "",
+    "fortnite": "036b303c-61a1-4469-81df-1dc28ea2425d",
+    "github": "",
+    "ipinfo": "4061b9c72139b7",
+    "maps": "AIzaSyApGfcvggWp-ZV2cCiQx3ZVnTF5qcOUtBU",
+    "osu": "",
+    "sentry": "",
+    "steam": "",
+    "topgg": "",
+    "twitter": "",
+    "weather": "572b85994a41f68ab59582d33157ff81",
+    "weebsh": ""
+  },
+
+  "rethink": {
+    "db": "hibiki",
+    "host": "",
+    "password": "",
+    "port": "",
+    "user": "",
+    "tables": [
+      "blacklist", "economy", "guildconfig", "marriages", "monitoring", "mutecache",
+      "points", "reminders", "session", "steammonitor", "userconfig", "warnings"
+    ]
+  },
+
+  "voting": {
+    "auth": "",
+    "port": 7013
+  }
+}

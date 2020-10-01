@@ -1,0 +1,1161 @@
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+internal/modules/cjs/loader.js:968
+  throw err;
+  ^
+
+Error: Cannot find module 'eris'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:6:20)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+(node:12756) UnhandledPromiseRejectionWarning: DiscordRESTError [10008]: Unknown Message
+    at RequestHandler.request (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\rest\RequestHandler.js:71:15)
+    at Hibiki.deleteMessage (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\Client.js:1231:36)
+    at Message.delete (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\structures\Message.js:367:43)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:323:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:12756) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 16)
+(node:12756) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+TypeError: Cannot read property 'length' of undefined
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:107:32
+    at Array.map (<anonymous>)
+    at setupCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:105:28)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:7)
+(node:12720) UnhandledPromiseRejectionWarning: Error: Color no válido: compruebe la construcción incorporada.
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:43:16)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:324:41
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:12720) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 20)
+(node:12720) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:12720) UnhandledPromiseRejectionWarning: Error: Color no válido: compruebe la construcción incorporada.
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:43:16)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:324:41
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:12720) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 22)
+(node:12720) UnhandledPromiseRejectionWarning: timeout
+(node:12720) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 23)
+(node:12720) UnhandledPromiseRejectionWarning: timeout
+(node:12720) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 24)
+(node:12864) UnhandledPromiseRejectionWarning: Error: Color no válido: compruebe la construcción incorporada.
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:43:16)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:324:41
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:12864) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 3)
+(node:12864) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+TypeError [ERR_INVALID_ARG_VALUE]: The argument 'file' cannot be empty. Received ''
+    at normalizeSpawnArguments (child_process.js:409:11)
+    at spawn (child_process.js:542:16)
+    at Object.execFile (child_process.js:232:17)
+    at Object.exec (child_process.js:153:25)
+    at execCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\Owner\exec.js:15:11)
+    at Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  code: 'ERR_INVALID_ARG_VALUE'
+}
+TypeError: Cannot read property 'status' of undefined
+    at smugCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\Roleplay\smug.js:22:14)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:7)
+(node:15748) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'map' of undefined
+    at itemsEmbed (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:166:34)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:326:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:15748) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 15)
+(node:15748) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:15748) UnhandledPromiseRejectionWarning: DiscordRESTError [10008]: Unknown Message
+    at RequestHandler.request (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\rest\RequestHandler.js:71:15)
+    at Hibiki.deleteMessage (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\Client.js:1231:36)
+    at Message.delete (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\structures\Message.js:367:43)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:323:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:15748) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 16)
+(node:15748) UnhandledPromiseRejectionWarning: DiscordRESTError [10008]: Unknown Message
+    at RequestHandler.request (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\rest\RequestHandler.js:71:15)
+    at Hibiki.deleteMessage (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\Client.js:1231:36)
+    at Message.delete (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\structures\Message.js:367:43)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:323:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:15748) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 17)
+(node:15748) UnhandledPromiseRejectionWarning: timeout
+(node:15748) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 18)
+(node:15896) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'map' of undefined
+    at itemsEmbed (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:166:34)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:326:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:15896) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 37)
+(node:15896) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:15896) UnhandledPromiseRejectionWarning: DiscordRESTError [10008]: Unknown Message
+    at RequestHandler.request (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\rest\RequestHandler.js:71:15)
+    at Hibiki.deleteMessage (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\Client.js:1231:36)
+    at Message.delete (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\structures\Message.js:367:43)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:323:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:15896) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 38)
+(node:15896) UnhandledPromiseRejectionWarning: DiscordRESTError [10008]: Unknown Message
+    at RequestHandler.request (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\rest\RequestHandler.js:71:15)
+    at Hibiki.deleteMessage (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\Client.js:1231:36)
+    at Message.delete (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\structures\Message.js:367:43)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:323:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:15896) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 39)
+(node:15896) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'map' of undefined
+    at itemsEmbed (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:166:34)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:326:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:15896) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 40)
+(node:15896) UnhandledPromiseRejectionWarning: DiscordRESTError [10008]: Unknown Message
+    at RequestHandler.request (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\rest\RequestHandler.js:71:15)
+    at Hibiki.deleteMessage (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\Client.js:1231:36)
+    at Message.delete (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\structures\Message.js:367:43)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:323:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:15896) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 41)
+(node:15896) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'map' of undefined
+    at itemsEmbed (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:166:34)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:326:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:15896) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 42)
+(node:15896) UnhandledPromiseRejectionWarning: DiscordRESTError [10008]: Unknown Message
+    at RequestHandler.request (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\rest\RequestHandler.js:71:15)
+    at Hibiki.deleteMessage (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\Client.js:1231:36)
+    at Message.delete (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\structures\Message.js:367:43)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:323:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:15896) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 47)
+(node:15896) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'map' of undefined
+    at itemsEmbed (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:166:34)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:326:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:15896) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 48)
+(node:15896) UnhandledPromiseRejectionWarning: DiscordRESTError [10008]: Unknown Message
+    at RequestHandler.request (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\rest\RequestHandler.js:71:15)
+    at Hibiki.deleteMessage (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\Client.js:1231:36)
+    at Message.delete (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\structures\Message.js:367:43)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:323:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:15896) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 49)
+(node:15896) UnhandledPromiseRejectionWarning: DiscordRESTError [10008]: Unknown Message
+    at RequestHandler.request (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\rest\RequestHandler.js:71:15)
+    at Hibiki.deleteMessage (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\Client.js:1231:36)
+    at Message.delete (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\structures\Message.js:367:43)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:323:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:15896) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 50)
+(node:15896) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'map' of undefined
+    at itemsEmbed (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:166:34)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:326:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:15896) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 51)
+(node:15896) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'map' of undefined
+    at itemsEmbed (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:166:34)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:326:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:15896) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 52)
+(node:15896) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'map' of undefined
+    at itemsEmbed (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:166:34)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:326:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:15896) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 54)
+(node:15896) UnhandledPromiseRejectionWarning: timeout
+(node:15896) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 55)
+(node:15896) UnhandledPromiseRejectionWarning: timeout
+(node:15896) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 56)
+(node:15896) UnhandledPromiseRejectionWarning: timeout
+(node:15896) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 57)
+Error: Color no válido: compruebe la construcción incorporada.
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:43:16)
+    at prefixCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\prefix.js:51:14)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:7)
+Error: Color no válido: compruebe la construcción incorporada.
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:43:16)
+    at prefixCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\prefix.js:51:14)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:7)
+Error: Color no válido: compruebe la construcción incorporada.
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:43:16)
+    at prefixCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\prefix.js:51:14)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:7)
+Error: Color no válido: compruebe la construcción incorporada.
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:43:16)
+    at prefixCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\prefix.js:51:14)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:7)
+Error: Color no válido: compruebe la construcción incorporada.
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:43:16)
+    at prefixCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\prefix.js:51:14)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:7)
+Error: Color no válido: compruebe la construcción incorporada.
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:43:16)
+    at prefixCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\prefix.js:51:14)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:7)
+Error: Color no válido: compruebe la construcción incorporada.
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:43:16)
+    at prefixCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\prefix.js:51:14)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:7)
+Error: Color no válido: compruebe la construcción incorporada.
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:43:16)
+    at prefixCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\prefix.js:51:14)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:7)
+Error: Color no válido: compruebe la construcción incorporada.
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:43:16)
+    at prefixCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\prefix.js:51:14)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:7)
+Error: Color no válido: compruebe la construcción incorporada.
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:43:16)
+    at prefixCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\prefix.js:51:14)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:7)
+TypeError: Cannot read property 'map' of null
+    at cowsay (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\Fun\cowsay.js:71:51)
+    at cowsayCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\Fun\cowsay.js:83:45)
+    at Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:17)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Color no válido: compruebe la construcción incorporada.
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:43:16)
+    at prefixCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\prefix.js:51:14)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:7)
+Error: Color no válido: compruebe la construcción incorporada.
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:43:16)
+    at prefixCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\prefix.js:51:14)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:7)
+Error: Invalid color - check the embed construct.
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:43:16)
+    at prefixCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\prefix.js:51:14)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:7)
+TypeError: Cannot read property 'replace' of undefined
+    at Function.module.exports.color (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:111:37)
+    at userCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\user.js:174:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:7)
+TypeError: Cannot read property 'r' of null
+    at colorCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\Utilities\color.js:33:37)
+    at Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:10892) UnhandledPromiseRejectionWarning: DiscordRESTError [50035]: Invalid Form Body
+  embed.image.url: Not a well formed URL.
+    at RequestHandler.request (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\rest\RequestHandler.js:71:15)
+    at Hibiki.createMessage (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\Client.js:1095:36)
+    at TextChannel.createMessage (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\structures\TextChannel.js:164:42)
+    at kissCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\Roleplay\kiss.js:26:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:7)
+(node:10892) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:10892) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Error: Cannot find module 'discord.js'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\Roleplay\kiss.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\scripts\loader.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at kissCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\Roleplay\kiss.js:14:56)
+    at Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\commands\\Roleplay\\kiss.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\scripts\\loader.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\Roleplay\kiss.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\scripts\loader.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at kissCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\Roleplay\kiss.js:15:21)
+    at Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\commands\\Roleplay\\kiss.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\scripts\\loader.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\Roleplay\kiss.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\scripts\loader.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js
+- C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at kissCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\Roleplay\kiss.js:15:25)
+    at Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\commands\\Roleplay\\kiss.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\scripts\\loader.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Bot\\Hibiki-main\\Hibiki\\src\\index.js'
+  ]
+}
+(node:22752) UnhandledPromiseRejectionWarning: TypeError: command is not a constructor
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\scripts\loader.js:44:24
+    at Array.forEach (<anonymous>)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\scripts\loader.js:33:10
+    at Array.forEach (<anonymous>)
+    at Object.loadCommands [as commands] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\scripts\loader.js:27:9)
+    at Object.loadAll [as all] (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\scripts\loader.js:173:8)
+    at Hibiki.readyListener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:57:10)
+    at Hibiki.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\structures\Client.js:52:35)
+    at Hibiki.emit (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eventemitter3\index.js:180:35)
+    at Shard.<anonymous> (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\gateway\ShardManager.js:71:30)
+(node:22752) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:22752) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:26768) UnhandledPromiseRejectionWarning: TypeError: (intermediate value) is not iterable
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\Miscellaneous\embed.js:110:22
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:26768) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 34)
+(node:26768) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:26768) UnhandledPromiseRejectionWarning: TypeError: (intermediate value) is not iterable
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\Miscellaneous\embed.js:110:22
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:26768) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 59)
+(node:27544) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'replace' of undefined
+    at Function.module.exports.color (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\embed.js:111:37)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\Miscellaneous\embed.js:143:37
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:27544) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 7)
+(node:27544) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:23828) UnhandledPromiseRejectionWarning: DiscordRESTError [10008]: Unknown Message
+    at RequestHandler.request (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\rest\RequestHandler.js:71:15)
+    at Hibiki.deleteMessage (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\Client.js:1231:36)
+    at Message.delete (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\node_modules\eris\lib\structures\Message.js:367:43)
+    at C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\General\setup.js:323:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\utils\waitFor.js:27:26)
+(node:23828) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 24)
+(node:23828) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+ReferenceError: f is not defined
+    at roleinfoCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\Utilities\roleinfo.js:50:8)
+    at Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: f is not defined
+    at roleinfoCommand.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\commands\Utilities\roleinfo.js:50:8)
+    at Handler.run (C:\Users\Shadow\Documents\Bot\Hibiki-main\Hibiki\src\events\Handler.js:200:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)

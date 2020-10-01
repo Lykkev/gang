@@ -1,0 +1,27 @@
+name: Push
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [12.x]
+    steps:
+    - uses: actions/checkout@v2
+    - name: Node ${{ matrix.node-version }}
+      uses: actions/setup-node@v2-beta
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: Dependabot
+      uses: ridedott/merge-me-action@master
+      with:
+        GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+    - name: Testing
+      run: |
+        npm install
+        npm run build --if-present
+        npm test
+      env:
+        CI: true
