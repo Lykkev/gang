@@ -40,7 +40,7 @@
     "dayjs": "^1.10.4",
     "discord.js": "^12.5.1",
     "ejs": "^3.1.6",
-    "eris": "^0.14.0",
+    "eris": "^0.15.0",
     "eris-additions": "^1.4.1",
     "express": "^4.17.1",
     "express-robots-txt": "^0.5.0",
